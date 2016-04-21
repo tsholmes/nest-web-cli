@@ -1,0 +1,32 @@
+
+body {
+  background-color: black;
+  font-family: monospace;
+  color: white;
+  padding: 10px;
+}
+
+.cursor {
+  background-color: white;
+  color: black;
+}
+
+.oauthFrame {
+  width: 600px;
+  height: 800px;
+}
+
+.successContainer, .errorContainer {
+  width: 600px;
+  height: 200px;
+}
+
+.successContainer {
+  background-color: green;
+  color: black;
+}
+
+.errorContainer {
+  background-color: red;
+  color: white;
+}

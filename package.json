@@ -1,0 +1,18 @@
+{
+  "name": "nest-web-cli",
+  "version": "1.0.0",
+  "description": "A CLI-like web interface to connect to Nest OAuth",
+  "main": "index.js",
+  "author": "Thomas Holmes",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "5.6.0"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
